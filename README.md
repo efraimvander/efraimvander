@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/yourBanner.png" alt="Banner" width="100%" />
+</p>
 
-<!--
-**efraimvander/efraimvander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Olá, eu sou [Seu Nome]</h1>
+<p align="center">💻 SysAdmin | Automation | Infra | Observabilidade | DevOps</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias & Ferramentas
+
+<p align="center">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-blue?logo=docker">
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-red?logo=ansible">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0078D6?logo=powershell">
+  <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?logo=vmware">
+  <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-red">
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📂 Projetos Fixados
+
+| Projeto | Descrição |
+|---------|-----------|
+| [don't-panic-sysadmin](https://github.com/SEUUSERNAME/dont-panic-sysadmin) | Cheatsheets e emergências de sysadmin |
+| [ansible-labs](https://github.com/SEUUSERNAME/ansible-labs) | Laboratórios e automações |
+| [zabbix-ai](https://github.com/SEUUSERNAME/zabbix-ai) | Experimentos de IA com monitorização |
+| [docker-labs](https://github.com/SEUUSERNAME/docker-labs) | Estudos e práticas com Docker |
+
+---
+
+## 📚 Atualmente estudando
+
+- Kubernetes
+- Observabilidade
+- Inteligência Artificial aplicada a DevOps
+- Segurança e automação de infraestrutura
+
+---
+
+## 💡 Filosofia
+
+> "Automatize tudo que puder ser repetido."  
+> "Manual work is a bug."
+
+Infraestrutura não deve depender da memória humana, mas de **código, documentação e processos**.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)  
+- Email: seu.email@dominio.com  
+- Twitter: [@seuusuario](https://twitter.com/seuusuario)
