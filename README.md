@@ -11,13 +11,13 @@
 ## 🛠 Tecnologias & Ferramentas
 
 <p align="center">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux">
+<!--  <img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-blue?logo=docker">
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-red?logo=ansible">
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0078D6?logo=powershell">
-<!--  <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?logo=vmware">   -->
+  <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?logo=vmware">   
   <img alt="Azure" src=https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure">
-  <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-red">
+  <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-red"> -->
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
