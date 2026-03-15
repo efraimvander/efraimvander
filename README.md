@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Olá, eu sou Efraim Vander</h1>
-<p align="center">💻 SysAdmin | Automation | Infra | Observabilidade | DevOps</p>
+<p align="center">💻 SysAdmin | Automation | Infra | Observabilidade | aspiring DevOps</p>
 
 ---
 
@@ -33,18 +33,18 @@
 
 ---
 
-## 📂 Projetos Fixados
+## 📂 Projectos Fixados
 
-| Projeto | Descrição |
+| Projecto | Descrição |
 |---------|-----------|
 | [don't-panic-sysadmin](https://github.com/efraimvander/dont-panic-sysadmin) | Cheatsheets e emergências de sysadmin |
 | [ansible-labs](https://github.com/efraimvander/ansible-labs) | Laboratórios e automações |
-| [zabbix-ai](https://github.com/efraimvander/zabbix-ai) | Experimentos de IA com monitorização |
+| [zabbix-ai](https://github.com/efraimvander/zabbix-ai) | Experimentos de IA com monitoramento |
 | [docker-labs](https://github.com/efraimvander/docker-labs) | Estudos e práticas com Docker |
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Actualmente em estudo
 
 - Kubernetes
 - Observabilidade
@@ -62,7 +62,7 @@ Infraestrutura não deve depender da memória humana, mas de **código, document
 
 ---
 
-## 📫 Contato
+## 📫 Contacto
 
 - LinkedIn: [Efraim Vander](https://linkedin.com/in/efraimvander)  
 - Email: efraimvander64@gmail.com  
