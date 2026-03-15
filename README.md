@@ -16,7 +16,7 @@
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-red?logo=ansible">
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0078D6?logo=powershell">
 <!--  <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?logo=vmware">   -->
- ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure)
+  <img alt="Azure" src=https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure">
   <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-red">
 </p>
 
