@@ -18,6 +18,12 @@
 <!--  <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?logo=vmware">   -->
   <img alt="Azure" src=https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure">
   <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-red">
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure)
 </p>
 
 ---
