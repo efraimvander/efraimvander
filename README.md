@@ -37,10 +37,10 @@
 
 | Projeto | Descrição |
 |---------|-----------|
-| [don't-panic-sysadmin](https://github.com/SEUUSERNAME/dont-panic-sysadmin) | Cheatsheets e emergências de sysadmin |
-| [ansible-labs](https://github.com/SEUUSERNAME/ansible-labs) | Laboratórios e automações |
-| [zabbix-ai](https://github.com/SEUUSERNAME/zabbix-ai) | Experimentos de IA com monitorização |
-| [docker-labs](https://github.com/SEUUSERNAME/docker-labs) | Estudos e práticas com Docker |
+| [don't-panic-sysadmin](https://github.com/efraimvander/dont-panic-sysadmin) | Cheatsheets e emergências de sysadmin |
+| [ansible-labs](https://github.com/efraimvander/ansible-labs) | Laboratórios e automações |
+| [zabbix-ai](https://github.com/efraimvander/zabbix-ai) | Experimentos de IA com monitorização |
+| [docker-labs](https://github.com/efraimvander/docker-labs) | Estudos e práticas com Docker |
 
 ---
 
@@ -64,6 +64,6 @@ Infraestrutura não deve depender da memória humana, mas de **código, document
 
 ## 📫 Contato
 
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)  
-- Email: seu.email@dominio.com  
-- Twitter: [@seuusuario](https://twitter.com/seuusuario)
+- LinkedIn: [Efraim Vander](https://linkedin.com/in/efraimvander)  
+- Email: efraimvander64@gmail.com  
+- Twitter: [@efraim](https://twitter.com/seuusuario)
