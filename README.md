@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/yourBanner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou [Seu Nome]</h1>
+<h1 align="center">👋 Olá, eu sou Efraim Vander</h1>
 <p align="center">💻 SysAdmin | Automation | Infra | Observabilidade | DevOps</p>
 
 ---
@@ -24,11 +24,11 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=efraimvander&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efraimvander&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
