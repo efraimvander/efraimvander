@@ -24,6 +24,9 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure)
+![Prometheus](https://img.shields.io/badge/Prometheus-223A5E?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana)
+![Podman](https://img.shields.io/badge/Podman-F00?logo=podman)
 </p>
 
 ---
